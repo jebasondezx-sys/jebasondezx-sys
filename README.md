@@ -9,4 +9,4 @@ I'm a Research Analyst based in Chennai.
 Passionate about Research and PhD.
 
 ## 🔗 Links
-- 🌍 Ondezx (https://ondezx.com) 
+- 🌍 [Ondezx](https://ondezx.com)
